@@ -1,6 +1,4 @@
 import React from 'react';
-// import '../styles/reset.css';
-// import '../styles/Work.css';
 
 function Work() {
     return (
