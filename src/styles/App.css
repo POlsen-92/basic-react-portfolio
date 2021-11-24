@@ -1,4 +1,15 @@
 /* Entire WebPage */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  html {
+    height: 100%;
+  }
+
 :root {
     --dark: rgb(73, 71, 71);
 }
@@ -10,7 +21,12 @@ body {
     flex-direction: column;
     min-height: 100vh;
     font-family: 'Quattrocento Sans', sans-serif;
+    line-height: 1;
 }
+
+ol, ul {
+    list-style: none;
+  }
 
 /* Header Includes Title, nav bar, top photo and photo caption */
 header {
