@@ -5,7 +5,7 @@ import Work from "./components/Work";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './styles/Reset.css'
+import './styles/Reset.css';
 import './styles/App.css';
 
 function App() {
