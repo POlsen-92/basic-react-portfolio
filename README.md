@@ -120,14 +120,9 @@ For this project I've taken my prior portfolios and turned it into a React App
     SOFTWARE.
   
   ## Credits
-  Built with [JavaScript](https://www.javascript.com/) and [Mongo](https://www.mongodb.com//)
+  Built with [JavaScript](https://www.javascript.com/) and [React](https://reactjs.org/)
 
   Deployed with [Heroku](https://heroku.com)
-
-  Run using [Node.js](https://nodejs.org/en/), [Express.js](https://expressjs.com/) and [Mongoose](https://mongoosejs.com/)
-
-  Other NPMs Used
-  - [dotenv](https://www.npmjs.com/package/dotenv)
 
   ## Creators
   ### Paige Olsen 
