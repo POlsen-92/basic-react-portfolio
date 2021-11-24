@@ -3,7 +3,7 @@
   
   ## Description
   
-    For this project I've taken my prior portfolios and turned it into a React App
+For this project I've taken my prior portfolios and turned it into a React App
   
 <img src="src/images/profile_SS.png" height="400px" alt="main page of app"> 
 
